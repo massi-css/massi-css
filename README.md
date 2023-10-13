@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://massi-css.github.io/portfolio/](https://massi-css.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://massi-portfolio.vercel.app/](https://massi-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, js , tailwind**
 
