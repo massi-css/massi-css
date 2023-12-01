@@ -1,8 +1,8 @@
 [![MasterHead](banners/github-cover.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm  Massi.Sebiha</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
-<img align ="right" alt="coding" width="400" src="banners\banner2.gif" />
+<h1 align="center"> eyo..., I'm  Massi.Sebiha</h1>
+<h3 align="center">A developer from Algeria</h3>
+<img align ="right" alt="coding" width="400" src="banners\banner.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massi-css&label=Profile%20views&color=0e75b6&style=flat" alt="massi-css" /> </p>
 
