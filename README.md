@@ -1,4 +1,4 @@
-[![MasterHead](banners\github-cover.gif)](https://rishavchanda.io)
+[![MasterHead](banners/github-cover.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm  Massi.Sebiha</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
