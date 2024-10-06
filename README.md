@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/massi_35" target="blank"><img src="https://img.shields.io/twitter/follow/massi_35?logo=twitter&style=for-the-badge" alt="massi_35" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [[https://portfolio-massi.vercel.app/](https://portfolio-massi.vercel.app/)]
 
-- 💬 Ask me about **react, js , tailwind**
+- 💬 Ask me about **react, js , tailwind , Nextjs , nodejs**
 
 - 📫 How to reach me **massinissa111111@gmail.com**
 
