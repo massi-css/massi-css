@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [[https://portfolio-massi.vercel.app/](https://portfolio-massi.vercel.app/)]
+- 👨‍💻 All of my projects are available at [https://massi-js.vercel.app/](https://massi-js.vercel.app/)]
 
 - 💬 Ask me about **react, js , tailwind , Nextjs , nodejs**
 
